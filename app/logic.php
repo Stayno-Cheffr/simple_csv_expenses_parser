@@ -32,7 +32,7 @@
                     }
                 }
             }
-            fclose($handle);
+            fclose($handle); 
         }
 
         return $transactionHolder;
